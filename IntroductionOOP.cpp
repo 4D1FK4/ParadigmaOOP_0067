@@ -12,4 +12,4 @@ class Mahasiswa{ //blue print atau cetakan
         cout << "Nama : " << nama << endl;
         cout << "Nilai : " << nilai << endl;
     }
-}
+}; // batas class
