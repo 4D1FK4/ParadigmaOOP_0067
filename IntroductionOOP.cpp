@@ -6,4 +6,6 @@ class Mahasiswa{ //blue print atau cetakan
     int nim;
     string nama;
     float nilai;
+
+    void printData(){}
 }
