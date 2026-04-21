@@ -9,5 +9,6 @@ class Mahasiswa{ //blue print atau cetakan
 
     void printData(){
         cout << "NIM : " << nim << endl;
+        cout << "Nama : " << nama << endl;
     }
 }
