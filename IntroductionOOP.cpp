@@ -13,3 +13,10 @@ class Mahasiswa{ //blue print atau cetakan
         cout << "Nilai : " << nilai << endl;
     }
 }; // batas class
+
+int main(){
+    Mahasiswa mhs;
+    mhs.nim = 2022;
+    mhs.nama = "SiImut";
+    mhs.nilai = 90.5;
+}
